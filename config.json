@@ -1,0 +1,21 @@
+{
+    "title": {
+        "innerText": "Wisdom",
+        "link": "/",
+        "style": [
+            "text-4xl", 
+            "text-green-600", 
+            "font-bold", 
+            "ml-2", 
+            "cursor-pointer"
+        ]
+    },
+    "menu": [
+        {"About": "/about"},
+        {"Member": "/member"},
+        {"Contact": "/contact"}
+    ],
+
+    "phrase": "Test-phrase",
+    "description": "より楽しくゲームができるよう、サポートさせていただきます\nゲームの知恵を発揮できるチームです"
+}
